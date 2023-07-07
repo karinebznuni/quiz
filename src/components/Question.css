@@ -1,0 +1,22 @@
+.question-card{
+    width: 80%;
+    margin:auto;
+    color: var(--dark-gray)
+}
+
+.question{
+   color: var(--blue);
+   
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    background-color: var(--light);
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 8px;
+    border-radius: 10px;
+}

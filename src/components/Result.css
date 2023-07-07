@@ -1,0 +1,16 @@
+.result{
+    width: 50%;
+    height: auto;
+    background-color: rgb(32, 32, 32);
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    color: white;
+}
+.restart{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+
